@@ -91,9 +91,9 @@ hist():直方圖(histogram):matplotlib.pyplot.hist
 boxplot():箱形圖 (Box plot):matplotlib.pyplot.boxplot
 scatter():散佈圖 (Scatter plot): matplotlib.pyplot.scatter
 
-
-參考: https://colab.research.google.com/notebooks/charts.ipynb
 ```
+參考: https://colab.research.google.com/notebooks/charts.ipynb
+
 
 ### plot():折線圖範例1
 ```
