@@ -32,10 +32,10 @@ Pyga
 Plotly
 ```
 # [3].Google Colab上的範利
-```
-Charting in Colaboratory
+
+Charting in Colaboratory  
 https://colab.research.google.com/notebooks/charts.ipynb
-```
+
 ### Line Plots折線圖:基本統計圖形
 ```
 import matplotlib.pyplot as plt
@@ -79,9 +79,9 @@ https://www.runoob.com/numpy/numpy-matplotlib.html
 
 # [5]MATPLOTLIB範例學習[1]單一圖形
 ## matplotlib.pyplot
-```
+
 https://matplotlib.org/api/pyplot_summary.html
-```
+
 ```
 matplotlib.pyplot模組有許多基本統計圖形的函數
 plot():折線圖:matplotlib.pyplot.plot
@@ -140,9 +140,9 @@ pl.title('sin')        #設定圖形標題
 pl.show()                #顯示圖形
 ```
 ### plot():折線圖範例2:看看底下產生的數學公式
-```
+
 https://matplotlib.org/gallery/pyplots/pyplot_mathtext.html#sphx-glr-gallery-pyplots-pyplot-mathtext-py
-```
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -161,8 +161,9 @@ plt.ylabel('volts (mV)')
 plt.show()
 ```
 ## 圓餅圖(Pie Chart)
-```
+
 https://zh.wikipedia.org/wiki/%E9%A5%BC%E5%9B%BE
+```
 圓餅圖，或稱餅狀圖，是一個劃分為幾個扇形的圓形統計圖表，
 用於描述量、頻率或百分比之間的相對關係。
 
@@ -191,9 +192,9 @@ plt.axis('equal')
 plt.show()
 ```
 ## 直方圖
-```
-https://zh.wikipedia.org/wiki/直方圖
 
+https://zh.wikipedia.org/wiki/直方圖
+```
 直方圖基本上是一種次數分配表，
 沿著橫軸以各組組界為分界，組距為底邊，以各組的次數為高度，
 依序在固定的間距上畫出矩形高度所繪製而成之圖形。
@@ -273,9 +274,9 @@ plt.legend(loc="upper left") # label的位置在左上，沒有這句會找不�
 ```
 用途:看看資料有何關係??
 ```
-```
-https://en.wikipedia.org/wiki/Scatter_plot
 
+https://en.wikipedia.org/wiki/Scatter_plot
+```
 散佈圖是一種使用笛卡兒坐標來顯示一組數據的通常兩個變量的值的圖或數學圖。
 如果對點進行了編碼，則可以顯示一個附加變量。
 數據顯示為點的集合，每個點具有確定水平軸上位置的一個變量的值和確定垂直軸上位置的另一個變量的值。
@@ -313,21 +314,24 @@ pl.scatter(x,y,s=x*500,c=u'b',marker=u'p')
 pl.show()
 ```
 #### matplotlib使用函數:pl.scatter
+
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.scatter.html  
 ```
-https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.scatter.html
 有許多參數設定:請參看原始網站
 
 s指大小，c指顏色，marker指符號形狀
 ```
 ### matplotlib.markers符號形狀
+
+https://matplotlib.org/api/markers_api.html?highlight=marker  
 ```
-https://matplotlib.org/api/markers_api.html?highlight=marker
 上網看看如何改變markers
 ```
 ## boxplot箱形圖 (Box plot)範例
-```
+
 https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.boxplot.html
 
+```
 matplotlib.pyplot.boxplot(x, notch=None, sym=None, vert=None, whis=None, 
 positions=None, widths=None, patch_artist=None, bootstrap=None, usermedians=None, 
 conf_intervals=None, meanline=None, showmeans=None, showcaps=None, showbox=None, 
@@ -357,8 +361,9 @@ ax1.boxplot(data)
 某高中身高
             178   164  159  162  182  
              179   166  168  173  165
-http://estat.ncku.edu.tw/topic/graph_stat/base/BoxPlot.html
 ```
+http://estat.ncku.edu.tw/topic/graph_stat/base/BoxPlot.html
+
 
 # 單一圖形顯示多筆資料
 ```
@@ -396,9 +401,10 @@ pl.show()
 ### matplotlib.pyplot.legend
 ```
 語法：legend(*args)
-https://ithelp.ithome.com.tw/articles/10201670
-https://matplotlib.org/api/_as_gen/matplotlib.pyplot.legend.html#matplotlib.pyplot.legend
 ```
+https://ithelp.ithome.com.tw/articles/10201670  
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.legend.html#matplotlib.pyplot.legend
+
 ### 範例練習:帶有數學公式的圖形
 ```
 import numpy as np
@@ -427,9 +433,9 @@ plt.show()
 ```
 
 ## matplotlib.pyplot.subplot
-```
+
 https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
-```
+
 ```
 要先載入套件
 import matplotlib.pyplot as plt
@@ -540,19 +546,19 @@ plt.show()
 
 # 自主學習主題
 ## 使用GridSpec畫不同比例的多圖形
-```
+
 https://www.itread01.com/content/1541685249.html
-```
+
 ##
 ```
 Matplotlib 畫動態圖 animation模組
-
+```
 https://www.itread01.com/content/1547022071.html
-```
+
 ### 3D圖形畫製
-```
+
 https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
-```
+
 ### 3D圖形畫製範例練習:
 ```
 import numpy as np
@@ -575,19 +581,21 @@ plt.show()
 ```
 ### 延伸閱讀:推薦的教科書plot.ly
 
-```
+
 官方網址https://plot.ly/看看互動式資料視覺化成果
-```
+
 ```
 Python數據分析：基於Plotly的動態可視化繪圖
 作者： 孫洋洋, 王碩, 邢夢來, 袁泉, 吳娜
 電子工業出版社
-https://github.com/sunshe35/PythonPlotlyCodes
 ```
+https://github.com/sunshe35/PythonPlotlyCodes
+
 
 ### 延伸閱讀:書bokeh
-```
+
 官方網址  https://bokeh.pydata.org/en/latest/
+```
 !pip install bokeh
 
 ```
@@ -609,9 +617,9 @@ p.circle(x, y, radius=radii, fill_color=colors, fill_alpha=0.6, line_color=None)
 show(p)
 ```
 ### lorenz attractor範例
-```
+
 https://docs.bokeh.org/en/latest/docs/gallery/lorenz.html
-```
+
 ```
 import numpy as np
 from scipy.integrate import odeint
@@ -655,12 +663,14 @@ show(p)
 ### 延伸閱讀: seaborn
 ```
 範例學習1:
-https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb
 ```
+https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb
+
 ```
 範例學習2:
-https://colab.research.google.com/drive/1o6MijFkNHiTPeS8Y5n59j2cH4-Mf2wX3
 ```
+https://colab.research.google.com/drive/1o6MijFkNHiTPeS8Y5n59j2cH4-Mf2wX3
+
 ```
 import seaborn as sns
 sns.set(style="ticks")
@@ -673,7 +683,7 @@ sns.lmplot(x="x", y="y", col="dataset", hue="dataset", data=df,
            col_wrap=2, ci=None, palette="muted", height=4,
            scatter_kws={"s": 50, "alpha": 1});
 ```
-```
+
 https://www.data-insights.cn/?p=179
 ```
 
