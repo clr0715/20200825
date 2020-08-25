@@ -548,11 +548,11 @@ import numpy as np
 np.convolve([1, 2, 3], [0, 1, 0.5])
 ```
 ## NUMPY ndarray(N-Dimensional Arrays)檔案輸入與輸出
-```
+
 https://ithelp.ithome.com.tw/articles/10196167
-save()
-load()
-```
+`save()
+`load()
+
 ## NUMPY ndarray 運算 - 排序sort[進階,初學可略過]
 
 https://github.com/femibyte/mastering_pandas/blob/master/MasteringPandas-chap3_DataStructures.ipynb
@@ -567,7 +567,7 @@ ar=np.array([[3,2],[10,-1]])
 # ar
 ar.sort(axis=1)
 ar
-```
+
 ### [小測驗]下列程式執行後的結果為何?
 ```
 import numpy as np
@@ -585,8 +585,8 @@ ar[::-1]
 # 龍大大 我的億 大樂透 開獎中心
 ```
 說明底下程式的處理邏輯
-```
-```
+
+>>
 import random as rand
 
 list1 = rand.sample(range(1,50), 7)
@@ -601,7 +601,7 @@ for i in range(0,6):
     if i == 5:    print(str(list1[i]))
     else:    print(str(list1[i]), end=", ")
 print("本期大樂透特別號為：" + str(special))
-```
+
 ```
 說明底下程式的處理邏輯
 
