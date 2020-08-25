@@ -586,8 +586,8 @@ ar[::-1]
 ```
 說明底下程式的處理邏輯
 
->>
-import random as rand
+
+>import random as rand
 
 list1 = rand.sample(range(1,50), 7)
 
