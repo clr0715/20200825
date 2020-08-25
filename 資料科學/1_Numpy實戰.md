@@ -459,9 +459,9 @@ result
 ## [6]ndarray 運算的Broadcasting(廣播機制)
 
 參考資料:
-[1]numpy 中的 broadcasting（廣播）機制
-   https://codertw.com/程式語言/462108/
-[2]NumPy 廣播(Broadcast)
+[1]numpy 中的 broadcasting（廣播）機制  
+   https://codertw.com/程式語言/462108/  
+[2]NumPy 廣播(Broadcast)  
    https://www.runoob.com/numpy/numpy-broadcast.html[2]
 
 ```
