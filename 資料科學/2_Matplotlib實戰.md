@@ -76,7 +76,7 @@ plt.plot(x, y1,'r--',label="line L")
 https://zh.wikipedia.org/wiki/Matplotlib
 https://blog.techbridge.cc/2018/05/11/python-data-science-and-machine-learning-matplotlib-tutorial/
 https://www.runoob.com/numpy/numpy-matplotlib.html
-```
+
 # [5]MATPLOTLIB範例學習[1]單一圖形
 ## matplotlib.pyplot
 ```
