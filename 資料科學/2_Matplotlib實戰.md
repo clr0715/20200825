@@ -19,9 +19,9 @@
 ```
 藉助於圖形化手段，
 清晰有效地傳達與溝通訊息
-
-https://zh.wikipedia.org/wiki/資料視覺化
 ```
+https://zh.wikipedia.org/wiki/資料視覺化
+
 # [2].資料視覺化の套件
 ```
 Matp2lotlib(本課程使用)
@@ -63,7 +63,7 @@ plt.show()
 plt.plot(x, y1,'r--',label="line L")
 ```
 # [4].MATPLOTLIB
-```
+
 官方網址 https://matplotlib.org/
 
 使用指南  https://matplotlib.org/users/index.html
