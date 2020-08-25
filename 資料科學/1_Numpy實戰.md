@@ -413,7 +413,7 @@ ar=np.array([[1,1],[1,1]])
 ar2=np.array([[2,2],[2,2]])
 ar*ar2
 ```
-### dot運算
+### dot(點積)運算
 ```
 import numpy as np
 ar=np.array([[1,1],[1,1]])
@@ -457,13 +457,13 @@ result = np.where(cond, xarr, yarr)
 result
 ```
 ## [6]ndarray 運算的Broadcasting(廣播機制)
-```
+
 參考資料:
 [1]numpy 中的 broadcasting（廣播）機制
    https://codertw.com/程式語言/462108/
 [2]NumPy 廣播(Broadcast)
    https://www.runoob.com/numpy/numpy-broadcast.html[2]
-```
+
 ```
 import numpy as np
 x1 = np.arange(9.0).reshape((3, 3))
