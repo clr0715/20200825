@@ -18,9 +18,9 @@ scikit-learn 機器學習, 2/e (Mastering Machine Learning with scikit-learn, 2/
 
 Mastering Machine Learning with scikit-learn - Second Edition
 Gavin Hackeling  July 23, 2017
-
+```
 https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition
-
+```
 第1章機器學習基礎
 第2章簡單線性回歸
 第3章用K-近鄰算法分類和回歸
@@ -41,10 +41,10 @@ https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-
 ### Machine learning basics
 ```
 所有的演算法都是從0開始實現，無需其他的機器學習庫。
-
+```
 https://github.com/zotroneneis/machine_learning_basics
 
-
+```
 Linear Regression
 Logistic Regression
 Perceptron
