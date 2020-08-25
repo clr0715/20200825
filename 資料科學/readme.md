@@ -6,16 +6,16 @@
 [2]資料視覺化---Matplotlib
 [3]Pandas資料分析
 ```
-```
-https://medium.com/@jason_trost/security-data-science-learning-resources-8f7586995040
 
+https://medium.com/@jason_trost/security-data-science-learning-resources-8f7586995040
+```
 Data Analysis For Network Cyber-Security
 
 Network Security Through Data Analysis: Building Situational Awareness by Michael S Collins
 Malware Data Science: Attack Detection and Attribution by Joshua Saxe and Hillary Sanders
 Machine Learning and Security: Protecting Systems with Data and Algorithms by Clarence Chio and David Freeman
 ```
-```
+
 [系列活動] 手把手打開Python資料分析大門
 https://www.slideshare.net/tw_dsconf/python-83977705
 ```
