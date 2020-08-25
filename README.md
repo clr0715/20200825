@@ -17,6 +17,8 @@ Numpy,matplotlib,pandas
 ### 監督
 #### Regression
 #### 分類
+##### KNN
+##### Decision Tree
 
-## 非監督
+## 非監督(沒有訓練資枓集T)
 ### Clusteing(叢集)
