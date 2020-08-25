@@ -59,6 +59,8 @@ plt.show()
 顏色改成紅色
 線條改成虛線
 ```
+https://matplotlib.org/3.3.1/api/_as_gen/matplotlib.pyplot.plot.html
+
 ```
 plt.plot(x, y1,'r--',label="line L")
 ```
