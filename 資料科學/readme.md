@@ -16,25 +16,24 @@ Malware Data Science: Attack Detection and Attribution by Joshua Saxe and Hillar
 Machine Learning and Security: Protecting Systems with Data and Algorithms by Clarence Chio and David Freeman
 ```
 
-[系列活動] 手把手打開Python資料分析大門
-
+[系列活動] 手把手打開Python資料分析大門  
 https://www.slideshare.net/tw_dsconf/python-83977705
 
 # [1]NUMPY
 
-[1]numpy
-[2]Numpy ndarray資料結構及其屬性
-[3]單一Numpy ndarray的各種運算
-   建立ndarray的各種方法
-   ndarray的各種shape運算:reshape|ravel()|T|newaxis
-   ndarray的索引(index)與切片運算(slice)
-   ndarray的Reduction 運算:prod()|sum()|mean()|median()
-[4]超重要的Universal Functions:Fast Element-Wise Array Functions
+[1]numpy  
+[2]Numpy ndarray資料結構及其屬性  
+[3]單一Numpy ndarray的各種運算  
+   建立ndarray的各種方法  
+   ndarray的各種shape運算:reshape|ravel()|T|newaxis  
+   ndarray的索引(index)與切片運算(slice)  
+   ndarray的Reduction 運算:prod()|sum()|mean()|median()  
+[4]超重要的Universal Functions:Fast Element-Wise Array Functions  
 
-[5]多Numpy ndarray的各種運算
-[6]Numpy的廣播機制(Broadcast)
+[5]多Numpy ndarray的各種運算  
+[6]Numpy的廣播機制(Broadcast)  
 
-[6]應用範例:類神經網路與邏輯閘實作[請參閱另外簡報]
+[6]應用範例:類神經網路與邏輯閘實作[請參閱另外簡報]  
 
 [7]自主學習主題
 ```
