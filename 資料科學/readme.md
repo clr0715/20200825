@@ -19,9 +19,9 @@ Machine Learning and Security: Protecting Systems with Data and Algorithms by Cl
 [系列活動] 手把手打開Python資料分析大門
 
 https://www.slideshare.net/tw_dsconf/python-83977705
-```
+
 # [1]NUMPY
-```
+
 [1]numpy
 [2]Numpy ndarray資料結構及其屬性
 [3]單一Numpy ndarray的各種運算
