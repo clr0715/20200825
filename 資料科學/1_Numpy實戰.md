@@ -554,7 +554,7 @@ save()
 load()
 ```
 ## NUMPY ndarray 運算 - 排序sort[進階,初學可略過]
-```
+
 https://github.com/femibyte/mastering_pandas/blob/master/MasteringPandas-chap3_DataStructures.ipynb
 
 學生報告:舉例說明numpy陣列的各項排序運算
